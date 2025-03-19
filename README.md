@@ -1,7 +1,7 @@
 # build-k8s-cluster
 
 <div align="center">
-    <img src="figures/1_IconsAll_Hori.png" alt="AIDY-F2N">
+    <img src="1_IconsAll_Hori.png" alt="AIDY-F2N">
 </div>
 
 This repository provides a **step-by-step guide** to setting up a **Kubernetes cluster from scratch** on **Ubuntu 20.04**. It walks through installing dependencies, configuring networking, and initializing the cluster.  
@@ -24,7 +24,7 @@ Follow the instructions below to deploy your Kubernetes cluster! ⬇️
 - Test Docker using "docker ps". The "docker ps" command is used to list the running Docker containers on your system. When you run docker ps without any additional options, it displays a list of the currently running containers along with their details, such as the container ID, image name, status, ports, and names. 
 
 <div align="center">
-    <img src="figures/docker.png" alt="docker">
+    <img src="docker.png" alt="docker">
 </div>
 
 
@@ -81,7 +81,7 @@ sudo kubeadm init --pod-network-cidr=10.244.0.0/16
 
   - If you face this problem: 
     <div align="center">
-    <img src="figures/cri.png" alt="AIDY-F2N">
+    <img src="cri.png" alt="AIDY-F2N">
     </div>
   
     Do this: 
@@ -141,7 +141,7 @@ kubectl get nodes
 
 
 <div align="center">
-    <img src="figures/nodess.png" alt="AIDY-F2N">
+    <img src="nodess.png" alt="AIDY-F2N">
 </div>
 
 
