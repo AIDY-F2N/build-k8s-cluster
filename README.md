@@ -1,4 +1,9 @@
 # build-k8s-cluster
+
+<div align="center">
+    <img src="figures/1_IconsAll_Hori.png" alt="AIDY-F2N">
+</div>
+
 This repository provides a **step-by-step guide** to setting up a **Kubernetes cluster from scratch** on **Ubuntu 20.04**. It walks through installing dependencies, configuring networking, and initializing the cluster.  
 
 🚀 **What’s included?**  
