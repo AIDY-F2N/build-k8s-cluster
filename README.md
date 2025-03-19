@@ -12,11 +12,6 @@ This repository provides a **step-by-step guide** to setting up a **Kubernetes c
 - At least **8 CPU / 16GB RAM**  
 
 Follow the instructions below to deploy your Kubernetes cluster! ⬇️  
- # Pre-requisite
-- Tested on Ubuntu 20.04
-- 8 CPU and 16GB of RAM
-
-
 
 ## Install Docker:
  You can install Docker Engine following the steps given in: https://docs.docker.com/engine/install/ubuntu/
